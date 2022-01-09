@@ -1,0 +1,8 @@
+Cargo.lock
+/target
+**/*.rs.bk
+/pkg/sudoku_web_bg.wasm.d.ts
+/pkg/README.md
+/pkg/.gitignore
+/pkg/package.json
+/pkg/sudoku_web.d.ts
