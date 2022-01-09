@@ -1,4 +1,4 @@
-# Webassembly Sudoku solver
+# WebAssembly Sudoku solver
 
 See https://mlbright.github.io/sudoku/.
 
